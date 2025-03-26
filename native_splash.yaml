@@ -1,0 +1,11 @@
+flutter_native_splash: 
+ android: true
+ ios: true
+ web: false
+
+
+ color: "#ddb892"
+ background_image: lib/images/Coffee icon.png
+ image: lib/images/Coffee icon.png
+
+ 
